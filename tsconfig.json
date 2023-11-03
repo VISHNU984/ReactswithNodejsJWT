@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {  
+    "target": "ES2015",
+    "lib": ["ES2015", "DOM"],
+    "module": "CommonJS",
+    "jsx": "react-jsx",
+    "strictNullChecks": true,
+    "types": ["@types/prop-types","node"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "types": ["node"]
+}

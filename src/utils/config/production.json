@@ -1,0 +1,8 @@
+{
+    "Mode": {
+        "production":{
+            "API_URL":""
+        }
+    },
+    "ModeType": "production"
+}

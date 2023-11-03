@@ -1,0 +1,8 @@
+{
+    "Mode": {
+        "development":{
+            "API_URL":""
+        }
+    },
+    "ModeType": "development"
+}

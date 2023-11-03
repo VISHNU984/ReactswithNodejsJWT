@@ -1,0 +1,8 @@
+{
+    "Mode": {
+        "uat":{
+            "API_URL":""
+        }
+    },
+    "ModeType": "uat"
+}
